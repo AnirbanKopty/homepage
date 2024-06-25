@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anirban Kopty</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Anirban Kopty</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jun 2024 01:31:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 25 Jun 2024 01:31:31 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi, this is me, Anirban Kopty and this page is all about me.&#xA;I currently work at IUCAA, India as a Research Scholar on Gravitational wave data analysis.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jun 2024 01:03:42 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Link to heading This is a bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
