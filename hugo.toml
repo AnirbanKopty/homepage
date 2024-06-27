@@ -1,17 +1,22 @@
-baseURL = 'https://anirbankopty.github.io/'
-languageCode = 'en-us'
-title = 'Anirban Kopty'
-theme = 'coder'
+baseURL = "https://anirbankopty.github.io/"
+languageCode = 'en'
+title = "Anirban Kopty"
+theme = "coder"
 
 [params]
 author = "Anirban Kopty"
 description = "Anirban Kopty's personal website"
+info = ["Research Scholar", "IUCAA, India"]
+avatarURL = ""
+# gravatar = "anirban.kopty@example.com"
+colorScheme = 'auto'
+hideColorSchemeToggle = false
 
-# [taxonomies]
-# category = "categories"
-# series = "series"
-# tag = "tags"
-# author = "authors"
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 [languages.en]
 languageName = ":in:"
