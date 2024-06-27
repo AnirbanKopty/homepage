@@ -1,0 +1,40 @@
+baseURL = 'https://anirbankopty.github.io/'
+languageCode = 'en-us'
+title = 'Anirban Kopty'
+theme = 'coder'
+
+[params]
+author = "Anirban Kopty"
+description = "Anirban Kopty's personal website"
+
+# [taxonomies]
+# category = "categories"
+# series = "series"
+# tag = "tags"
+# author = "authors"
+
+[languages.en]
+languageName = ":in:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts"
+
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/anirbankopty/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 1
+url = "https://gitlab.com/anirbankopty/"
